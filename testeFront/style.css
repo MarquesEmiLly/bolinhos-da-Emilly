@@ -1,0 +1,78 @@
+body{
+    background-color: thistle;
+}
+
+header{
+    background-color:hotpink;
+}
+
+
+li{
+    display: inline-block;
+    color: blanchedalmond;
+    font-size: 160%;
+    font-style: normal;
+}
+
+a{
+    color: white;
+}
+
+main{
+    font-size:160%;
+    font-style: normal;
+    color:black;    
+    text-align: center;
+
+}
+
+
+h1{
+    font-size: 300%;
+    font-style: normal;
+    color:black;    
+    text-align: center;
+    background-color: white;
+}
+h2{
+    font-size: 250%;
+    font-style: italic;
+    color:black;    
+    text-align: center;
+
+}
+section{ 
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 250px;
+    border-radius: 10%;
+    justify-content: center;
+}
+
+.bolinho1{
+    justify-content: space-between;
+    border:10px;
+
+}
+
+.bolinho2{
+    left: 30%;
+    justify-content: space-between;
+    border:10px;
+}
+
+.bolinho3{
+    left: 30%;
+    justify-content: space-between;
+    border:10px;
+}
+
+footer{
+    color:brown;
+    left: 30%;
+    font-style: inherit;
+    text-align: center;
+}
+
